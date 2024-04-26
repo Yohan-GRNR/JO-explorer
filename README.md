@@ -1,6 +1,6 @@
 # Olympic Games Analysis (1896-2022) 🏅
 
-This project aims to gather and analyze data from the Olympic Games from 1896 to 2024 using BeautifulSoup for scraping and Jupyter notebooks for analysis.
+This project aims to gather and analyze data from the Olympic Games from 1896 to 2022 using BeautifulSoup for scraping and Jupyter notebooks for analysis.
 
 ## Data Scraping 🕵️‍♂️
 
