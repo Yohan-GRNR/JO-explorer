@@ -21,7 +21,7 @@ Using Jupyter notebooks to analyze the extracted data. Analyses include:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/Yohan-GRNR/JO-explorer.git
 ```
 
 2. Install dependencies:
